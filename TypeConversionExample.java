@@ -1,6 +1,6 @@
 //type conversion
 
-class TypeConversionExample{
+class TypeConversionExamples{
     public static void main(String args[]){
         //to clr screen
         System.out.print("\033[H\033[2J");
